@@ -1,0 +1,20 @@
+C Language ( First CMD )
+----------------------------
+BASIC CMD
+
+
+
+
+#include <stdio.h>
+
+int main() {
+  printf("Hello Sir \n My Name Is Pruthviraj \n I Am A Sbs BvocIt Student \n My Favourite Subject Is Cyber Security \n And I Love Street Food \n My Favourite Colour Is Balck \n Abcd....");
+  return 0;
+}
+
+
+
+
+THANKS FOR WATCHING , BAPUx03
+
+
