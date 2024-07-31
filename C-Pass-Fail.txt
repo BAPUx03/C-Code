@@ -1,0 +1,26 @@
+C LANGUAGE 
+[ Student Paas or Fail Code With Using C Language with Mark If studentMarks Is Bigger than failInExam So Students was pass or Smaller than failInExam Students was Fail If you don't understand go and run this cmd , You can change Mark ( 70-40 ) for batter Experience  code created by BAPUx03 ]
+
+
+
+
+#include <stdio.h>
+
+int main() {
+    int studentMarks = 75;
+    int failInExam = 40;
+
+    // Check if student has passed or failed
+    if (studentMarks < failInExam) {
+        printf("This student has failed the exam.\n");
+    } else {
+        printf("This student has passed the exam.\n");
+    }
+
+    return 0;
+}
+
+
+
+THANK YOU FOR WATCHING :)
+ " BAPUx03 "
