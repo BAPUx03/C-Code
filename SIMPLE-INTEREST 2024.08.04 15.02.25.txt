@@ -1,0 +1,30 @@
+C Language Simple Interest Code 
+By Pruthviraj
+⚝──⭒─⭑─⭒──⚝
+
+
+#include <stdio.h>
+int main()
+
+{
+
+
+float principal_amount,period,rate ,simpleinters;
+    
+    printf("principal_amount:");
+    scanf("%f" , &principal_amount);
+    
+    printf("rate:");
+    scanf("%f" , &rate);
+    
+    printf("period:");
+    scanf("%f" , &period);
+    
+    simpleinters = (principal_amount *  period * rate) / 100;
+
+    printf ("simpleinters = %.2f\n" , simpleinters);
+}
+
+
+
+Thank You For Watching 🙂 BAPUx03
