@@ -1,0 +1,38 @@
+Take input from user and chek the condition wether the number is less than 5 or not and run the loop till 10 times and print it
+───── ❝ CODE ❞ ─────
+
+
+
+#include <stdio.h>
+int main() 
+{
+
+
+int num, i;
+
+for (i = 0 ; i < 10; i++)
+{
+	printf("Enter The Number:");
+	scanf("%d" , &num);
+	
+	if (num < 5)
+	
+	{
+		printf("%d is Smaller than 5\n" , num);
+	}
+	else if (num > 5)
+	{
+		printf("%d is bigger than 5\n" , num);
+	}
+	else
+	{
+		printf("%d is similar to 5\n" , num);
+	}
+}
+
+}
+
+
+
+
+Thank You For Watching 🙂 BAPUx03
